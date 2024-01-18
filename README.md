@@ -1,2 +1,1 @@
-# Super-Password-Generator
-This is you Super Password Generator!
+# Password Generator Starter Code
