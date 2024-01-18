@@ -6,7 +6,10 @@
 ## Screenshot of the app
 ! ![Alt text](Assets/screenshot.png)
 
-### References used
+### Deployed Page
+https://jennymunar.github.io/Super-Password-Generator/
+
+#### References used
 * https://www.w3schools.com/
 * https://developer.mozilla.org/en-US/
 * code from class
